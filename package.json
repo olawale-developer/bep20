@@ -1,0 +1,19 @@
+{
+  "name": "bep20",
+  "version": "1.0.0",
+  "main": "serverBep.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mysql2": "^3.11.1",
+    "web3": "^1.9.0"
+  }
+}
